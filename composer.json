@@ -1,9 +1,8 @@
 {
-	"name": "hypejunction/elgg_file_viewer",
-	"version": "2.1.0",
+	"name": "benjamintoussaint/elgg_file_viewer",
+	"version": "2.2.0",
 	"type": "elgg-plugin",
 	"description": "Media viewer for Elgg",
-	"homepage": "http://hypejunction.com",
 	"keywords": [
 		"elgg", "plugin", "files", "preview"
 	],

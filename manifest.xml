@@ -5,7 +5,7 @@
 	<description>Third-party integrations for (pre)viewing files</description>
 
 	<author>Ismayil Khayredinov - ArckInteractive (ismayil@arckinteractive.com)</author>
-	<version type="dist">2.1.0</version>
+	<version type="dist">2.2.0</version>
 
 	<category>files</category>
 	<category>enhancements</category>
@@ -18,7 +18,7 @@
 
 	<requires>
 		<type>elgg_release</type>
-		<version>2.1</version>
+		<version>6.1</version>
 	</requires>
 
 	<requires>
