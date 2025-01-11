@@ -16,7 +16,7 @@
 	"require": {
 		"bower-asset/prism": "~1.0",
 		"bower-asset/videojs": "~5.0",
-		"olaferlandsen/ffmpeg-php-class": "dev-master"
+		"olaferlandsen/ffmpeg-php-class": "~0.1.4"
 	},
 	"require-dev": {
 		"composer/installers": "~1.0"
